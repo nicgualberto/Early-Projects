@@ -10,7 +10,7 @@ Aqui eu organizo meus códigos, testes e anotações para evoluir na programaç�
 
 ## 📂 Estrutura do Repositório
 - `Projetos iniciais/` → Testes e exercícios para melhorar meu raciocínio
-- `Real projects/` → Projesto com aplicações reais
+- `Real projects/` → Projetos com aplicações reais no cotidiano
 - `Aulas e Desafios do Curso em vídeo Gustavo Guanabára de PYTHON/` → Arquivos com os desafios do curso
 - `README.md` → explicação do projeto
 
