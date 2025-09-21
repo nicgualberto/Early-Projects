@@ -9,9 +9,9 @@ Este é meu repositório de aprendizado em Python.
 Aqui eu organizo meus códigos, testes e anotações para evoluir na programação de forma prática e divertida.
 
 ## 📂 Estrutura do Repositório
-- `Projetos Iniciais/` → Testes e exercícios para melhorar meu raciocínio
+- `Projetos iniciais/` → Testes e exercícios para melhorar meu raciocínio
 - `Portifólio/` → Projetos com aplicações reais no cotidiano 
-- `CursoPython/` → Arquivos com os desafios do curso e alguns testes do CURSO EM VÍDEO DO GUSTAVO GUANABÁRA
+- `CursoPython/` → Arquivos com os desafios e alguns testes do curso em vídeo do Gustavo Guanabára
 - `README.md` → explicação do repositório
 
 ## 💻 Como Rodar
