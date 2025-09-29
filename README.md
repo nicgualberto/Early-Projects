@@ -17,5 +17,5 @@ Aqui eu organizo meus códigos, testes e anotações para evoluir na programaç�
 ## 💻 Como Rodar
 Para executar o código principal:
 ```bash
-python PASTA A SER ESCOLHIDA/NOME DO ARQUIVO.py
+python3 PASTA A SER ESCOLHIDA/NOME DO ARQUIVO.py
 
