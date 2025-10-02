@@ -1,0 +1,12 @@
+numbers = []
+numbers.append(int(input('Add number in the list: ')))
+numbers.append(int(input('Add number in the list: ')))
+numbers.append(int(input('Add number in the list: ')))
+numbers.append(int(input('Add number in the list: ')))
+numbers.append(int(input('Add number in the list: ')))
+numbers.sort()
+maxi = max(numbers)
+mini = min(numbers)
+print(numbers)
+print(f'O maior número da lista: {maxi}')
+print(f'O menor número da lista: {mini}')
